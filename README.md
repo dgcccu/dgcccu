@@ -1,4 +1,4 @@
-- 👋 Not Cufrrently Logged in.
+-  Not Currently Logged in.
 - 👀 I’m interested in tracking activity
 - 🌱 I’m currently learning about tiny MCUs
 <!-- - 💞️ I’m looking to collaborate on ... -->
